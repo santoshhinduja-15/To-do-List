@@ -17,3 +17,8 @@ A simple and **responsive To-Do List Web App** built with **HTML, CSS, Bootstrap
    git clone https://github.com/santoshhinduja-15/To-do-List.git
 2. Open **index.html** in a browser.
 3. Start adding and managing tasks! 
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/e0d095ab-94d5-4fcf-abb6-7207dfe2ee03)
+![image](https://github.com/user-attachments/assets/4fe17320-becb-411d-a9e5-e62d04c2d5ef)
+![image](https://github.com/user-attachments/assets/2601f621-63f3-4070-8978-c2060c24b5a7)
